@@ -46,5 +46,4 @@ tl.to("#box2",{
     rotate:360,
     backgroundColor:"blue",
     borderRadius:"0%",
-
 })
